@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">QUIZ APPLICATION</title>
+  <desc id="desc">QUESTIONS • SCORE • RESULTS</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10131b"/>
+      <stop offset="1" stop-color="#202638"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6b35"/>
+      <stop offset="1" stop-color="#ffb347"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" rx="28" fill="url(#bg)"/>
+  <circle cx="690" cy="60" r="130" fill="#ff7a45" opacity=".07"/>
+  <circle cx="80" cy="410" r="150" fill="#6c63ff" opacity=".08"/>
+  <rect x="54" y="58" width="7" height="334" rx="4" fill="url(#accent)"/>
+  <g transform="translate(95 145)">
+          <path d="M56 17l42 22v48L56 109 14 87V39z" fill="#f59e0b" opacity=".18" stroke="#fbbf24" stroke-width="4"/>
+          <path d="M45 43c2-10 22-13 28-3 7 12-12 17-16 27M57 81v1" fill="none" stroke="#fcd34d" stroke-width="6" stroke-linecap="round"/>
+        </g>
+  <text x="245" y="205" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" letter-spacing="1.2">QUIZ APPLICATION</text>
+  <text x="247" y="253" fill="#aeb8ca" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="2">QUESTIONS • SCORE • RESULTS</text>
+  <rect x="247" y="292" width="112" height="5" rx="3" fill="url(#accent)"/>
+  <text x="247" y="342" fill="#77839a" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">WEB PROJECT</text>
+  <text x="740" y="405" text-anchor="end" fill="#667085" font-family="Arial, Helvetica, sans-serif" font-size="13">PORTFOLIO</text>
+</svg>
